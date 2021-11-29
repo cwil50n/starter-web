@@ -3,3 +3,7 @@
 ## intro
 
 ## purpose
+
+## how to contribute
+
+## deployment
